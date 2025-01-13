@@ -1,0 +1,6 @@
+torch==2.2.2
+numpy
+pandas
+opencv-python
+matplotlib
+netCDF4
