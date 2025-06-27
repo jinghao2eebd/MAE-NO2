@@ -1,4 +1,4 @@
-### Mask autoencoder for TROPOMI $NO_2$ reconstruction
+### Self-supervised Accurate Remote Sensing Atmospheric Missing Data Reconstruction: A Masked Auto-encoder Solution
 Code for paper "Self-supervised Accurate Remote Sensing Atmospheric Missing Data Reconstruction: A Masked Auto-encoder Solution"
 ### Following steps
 1. download POMINO-TROPOMI, A TROPOMI based NO2 product for Asia from https://www.pku-atmos-acm.org/acmProduct/#TROPOMI 
